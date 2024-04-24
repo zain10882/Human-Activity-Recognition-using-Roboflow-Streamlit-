@@ -1,4 +1,4 @@
-!pip install streamlit
+pip install streamlit
 !pip install inference
 !pip install opencv-python
 !pip install numpy
