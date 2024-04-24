@@ -1,3 +1,10 @@
+!pip install streamlit
+!pip install inference
+!pip install opencv-python
+!pip install numpy
+!pip install tempfile
+!pip install shutil
+
 import streamlit as st
 
 from inference_sdk import InferenceHTTPClient
