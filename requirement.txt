@@ -1,3 +1,4 @@
+inference_sdk
 streamlit==1.11.0  # or the version you're using
 opencv-python-headless==4.5.5.64  # Use headless version for deployment to avoid GUI dependencies
 roboflow==0.2.2  # Ensure to specify the correct version you're using
