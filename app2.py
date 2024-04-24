@@ -1,7 +1,6 @@
 #pip install -r requirements.txt
 
 import streamlit as st
-import inference
 from inference_sdk import InferenceHTTPClient
 import cv2
 import numpy as np
